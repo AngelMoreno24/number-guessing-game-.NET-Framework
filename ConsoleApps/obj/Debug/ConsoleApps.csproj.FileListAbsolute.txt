@@ -1,0 +1,7 @@
+C:\Users\darkw\source\repos\ConsoleApps\bin\Debug\ConsoleApps.exe.config
+C:\Users\darkw\source\repos\ConsoleApps\bin\Debug\ConsoleApps.exe
+C:\Users\darkw\source\repos\ConsoleApps\bin\Debug\ConsoleApps.pdb
+C:\Users\darkw\source\repos\ConsoleApps\obj\Debug\ConsoleApps.csproj.AssemblyReference.cache
+C:\Users\darkw\source\repos\ConsoleApps\obj\Debug\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\Users\darkw\source\repos\ConsoleApps\obj\Debug\ConsoleApps.exe
+C:\Users\darkw\source\repos\ConsoleApps\obj\Debug\ConsoleApps.pdb

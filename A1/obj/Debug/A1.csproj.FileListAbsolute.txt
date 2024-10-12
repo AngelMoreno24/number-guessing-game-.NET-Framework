@@ -1,0 +1,7 @@
+C:\Users\darkw\source\repos\A1\obj\Debug\A1.csproj.AssemblyReference.cache
+C:\Users\darkw\source\repos\A1\obj\Debug\A1.csproj.CoreCompileInputs.cache
+C:\Users\darkw\source\repos\A1\bin\A1.dll.config
+C:\Users\darkw\source\repos\A1\bin\A1.dll
+C:\Users\darkw\source\repos\A1\bin\A1.pdb
+C:\Users\darkw\source\repos\A1\obj\Debug\A1.dll
+C:\Users\darkw\source\repos\A1\obj\Debug\A1.pdb

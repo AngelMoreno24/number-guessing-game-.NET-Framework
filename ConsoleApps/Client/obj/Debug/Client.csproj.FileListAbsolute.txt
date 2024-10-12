@@ -1,0 +1,7 @@
+C:\Users\darkw\source\repos\ConsoleApps\Client\bin\Debug\Client.exe.config
+C:\Users\darkw\source\repos\ConsoleApps\Client\bin\Debug\Client.exe
+C:\Users\darkw\source\repos\ConsoleApps\Client\bin\Debug\Client.pdb
+C:\Users\darkw\source\repos\ConsoleApps\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\darkw\source\repos\ConsoleApps\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\darkw\source\repos\ConsoleApps\Client\obj\Debug\Client.exe
+C:\Users\darkw\source\repos\ConsoleApps\Client\obj\Debug\Client.pdb
